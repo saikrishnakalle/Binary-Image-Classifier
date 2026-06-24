@@ -1,10 +1,6 @@
-Flask
-tensorflow
-keras
-numpy
-opencv-python
-Pillow
-pandas
-matplotlib
-scikit-learn
+flask
 werkzeug
+tensorflow
+opencv-python
+numpy
+pillow
