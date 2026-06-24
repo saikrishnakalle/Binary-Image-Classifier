@@ -1,8 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode
 __pycache__/
 *.pyc
-venv/
-.env
 
-dataset/
+# IDE settings
+.idea/
+.vscode/
 
-static/uploads/*
+# OS files
+.DS_Store
+Thumbs.db
