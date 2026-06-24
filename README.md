@@ -36,8 +36,6 @@ This project demonstrates a simple end-to-end binary image classification pipeli
 - **Frontend:** HTML, Jinja2 templates
 
 
-```
-
 ## Features
 
 - Accepts two image uploads at once (PNG, JPG, JPEG)
@@ -51,4 +49,3 @@ This project demonstrates a simple end-to-end binary image classification pipeli
 - Improve UI styling and responsiveness
 - Add a confidence score alongside each prediction
 - Deploy as a publicly accessible web service
-
