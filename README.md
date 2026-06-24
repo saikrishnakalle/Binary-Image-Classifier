@@ -33,7 +33,7 @@ This project demonstrates a simple end-to-end binary image classification pipeli
 - **Backend:** Python, Flask
 - **Machine Learning:** TensorFlow, Keras
 - **Image Processing:** OpenCV, Pillow (PIL)
-- **Frontend:** HTML, Jinja2 templates
+- **Frontend:** HTML
 
 
 ## Features
